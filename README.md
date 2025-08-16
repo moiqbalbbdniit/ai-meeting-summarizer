@@ -94,8 +94,10 @@ Now open http://localhost:3000.
 
 Iqbal
 
-[🔗 GitHub] https://github.com/moiqbalbbdniit
-[ LinkedIn] www.linkedin.com/in/moiqbalbbdniit
+- **Language**: TypeScript  
+- **🔗 GitHub**: [Vercel](https://vercel.com/)  
+[🔗 GitHub] (https://github.com/moiqbalbbdniit)
+[ LinkedIn] ([www.](https://)linkedin.com/in/moiqbalbbdniit)
 
 📄 License
 
