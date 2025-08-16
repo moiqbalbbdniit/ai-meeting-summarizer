@@ -45,13 +45,21 @@ It allows users to **paste or upload transcripts** and instantly generate **stru
 ### 1️⃣ Clone the repo
 ```bash
 git clone https://github.com/yourusername/ai-meeting-summarizer.git
+```
 cd ai-meeting-summarizer
-### 2️⃣ Install dependencies
+```###2️⃣ Install dependencies
+```
 npm install
+```
 ### 3️⃣ Setup environment variables
+```
 NEXT_PUBLIC_RESEND_API_KEY=your_resend_api_key
+```
 ###4️⃣ Run the dev server
+```
 npm run dev
+```
+```
 Now open http://localhost:3000.
 ```
 ##📧 Email Functionality (Testing Phase)
