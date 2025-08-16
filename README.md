@@ -62,6 +62,7 @@ npm run dev
 ```
 Now open http://localhost:3000.
 ```
+```
 ##📧 Email Functionality (Testing Phase)
    1 Currently, emails are restricted to be sent only to:
    2 nxtkhabar@gmail.com
@@ -92,12 +93,12 @@ Now open http://localhost:3000.
 
 👨‍💻 Author
 
-Iqbal
+Mohammad Iqbal
 
-- **Language**: TypeScript  
-- **🔗 GitHub**: [Vercel](https://vercel.com/)  
-[🔗 GitHub] (https://github.com/moiqbalbbdniit)
-[ LinkedIn] ([www.](https://)linkedin.com/in/moiqbalbbdniit)
+ 
+- **🔗 GitHub**: [Github]([https://vercel.com/](https://github.com/moiqbalbbdniit))
+ - **🔗 Linkedin**: [Linkedin](https://linkedin.com/in/moiqbalbbdniit) 
+
 
 📄 License
 
