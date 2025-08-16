@@ -55,7 +55,7 @@ npm install
 ```
 NEXT_PUBLIC_RESEND_API_KEY=your_resend_api_key
 ```
-###4️⃣ Run the dev server
+### 4️⃣ Run the dev server
 ```
 npm run dev
 ```
@@ -63,12 +63,12 @@ npm run dev
 Now open http://localhost:3000.
 ```
 
-##📧 Email Functionality (Testing Phase)
+## 📧 Email Functionality (Testing Phase)
    1 Currently, emails are restricted to be sent only to:
    2 nxtkhabar@gmail.com
    3 Once verified domains are added, this will support custom recipients.
 
-📌 Approach & Process
+## 📌 Approach & Process
 
 1 Transcript Input → User pastes or uploads transcript.
 
@@ -81,7 +81,7 @@ Now open http://localhost:3000.
 
 5 Deployment → Hosted on Vercel for fast and secure access.
 
-🌟 Future Enhancements
+## 🌟 Future Enhancements
 
 ✅ Support multiple recipient emails.
 
