@@ -45,9 +45,9 @@ It allows users to **paste or upload transcripts** and instantly generate **stru
 ### 1️⃣ Clone the repo
 ```bash
 git clone https://github.com/yourusername/ai-meeting-summarizer.git
-```
 cd ai-meeting-summarizer
-```###2️⃣ Install dependencies
+```
+### 2️⃣ Install dependencies
 ```
 npm install
 ```
@@ -62,7 +62,7 @@ npm run dev
 ```
 Now open http://localhost:3000.
 ```
-```
+
 ##📧 Email Functionality (Testing Phase)
    1 Currently, emails are restricted to be sent only to:
    2 nxtkhabar@gmail.com
@@ -96,7 +96,7 @@ Now open http://localhost:3000.
 Mohammad Iqbal
 
  
-- **🔗 GitHub**: [Github]([https://vercel.com/](https://github.com/moiqbalbbdniit))
+- **🔗 GitHub**: [Github](https://github.com/moiqbalbbdniit)
  - **🔗 Linkedin**: [Linkedin](https://linkedin.com/in/moiqbalbbdniit) 
 
 
