@@ -53,7 +53,7 @@ NEXT_PUBLIC_RESEND_API_KEY=your_resend_api_key
 ###4️⃣ Run the dev server
 npm run dev
 Now open http://localhost:3000.
-
+```
 ##📧 Email Functionality (Testing Phase)
    1 Currently, emails are restricted to be sent only to:
    2 nxtkhabar@gmail.com
